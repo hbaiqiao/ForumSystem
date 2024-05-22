@@ -1,4 +1,4 @@
-<h1>本科毕业设计——基于Vue和SpringBoot的校园论坛系统</h1>
+<h1>基于Vue和SpringBoot的校园论坛系统</h1>
 <h3>摘要部分</h3>
 
 ![image](https://github.com/hbaiqiao/ForumSystem/assets/79921484/2e7894b9-4a12-4a16-badf-3004c850c15b)
